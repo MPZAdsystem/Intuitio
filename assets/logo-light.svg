@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="490" viewBox="0 0 820 251" role="img" aria-label="intuitio">
+  <title>intuitio</title>
+  <g fill="none" stroke="#fff5e8" stroke-width="10" stroke-linecap="butt" stroke-linejoin="round">
+    <path d="M44 105 V224"/><path d="M102 224 V155 C102 125 119 105 145 105 C171 105 188 125 188 155 V224"/>
+    <path d="M254 43 V183 C254 213 266 224 289 224 H302"/><path d="M230 105 H300"/>
+    <path d="M349 105 V167 C349 204 368 227 398 227 C428 227 447 204 447 167 V105"/><path d="M506 105 V224"/>
+    <path d="M574 43 V183 C574 213 586 224 609 224 H622"/><path d="M550 105 H620"/>
+    <path d="M678 105 V224"/><ellipse cx="756" cy="165" rx="55" ry="61" stroke="#f06f4f"/>
+  </g>
+  <circle cx="44" cy="55" r="7" fill="#69bde7"/><circle cx="506" cy="48" r="17" fill="#f06f4f"/><circle cx="678" cy="55" r="7" fill="#69bde7"/>
+</svg>
