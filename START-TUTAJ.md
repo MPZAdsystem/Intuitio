@@ -10,6 +10,7 @@ Otwórz `index.html` w przeglądarce. Strona jest statyczna i nie wymaga instalo
 - `wspolpraca.html` — pełny opis współpracy;
 - `o-mnie.html` — informacje o Natalii;
 - `kontakt.html` — konsultacje online i placówki stacjonarne;
+- `rezerwacja.html` — osobna strona wyboru terminu, przygotowana do podłączenia harmonogramu Google;
 - `404.html` — strona błędu;
 - `styles.css` — cały system wizualny i responsywność;
 - `assets/` — logo, favicon i zoptymalizowane zdjęcia;
